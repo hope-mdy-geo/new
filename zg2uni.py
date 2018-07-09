@@ -32,29 +32,30 @@ def convert(input):
 
 	#--------------------------------------------------------------------Direct Change-----------------------------------------------------------------------------
 
-	output = re.sub(u'\u1060', u'\u1039\u1000', output)# Ka
-	output = re.sub(u'\u1061', u'\u1039\u1001', output)# Kha
-	output = re.sub(u'\u1062', u'\u1039\u1002', output)# Gha
-	output = re.sub(u'\u1063', u'\u1039\u1003', output)# GhaGyi
-	output = re.sub(u'\u1065', u'\u1039\u1005', output)# SaLone
-	output = re.sub(u'([\u1066-\u1067])', u'\u1039\u1006', output)# SaLai
-	output = re.sub(u'\u1068', u'\u1039\u1007', output)# ZaGwe
-	output = re.sub(u'\u1069', u'\u1039\u1008', output)  # Ka
-	output = re.sub(u'\u106C', u'\u1039\u100B', output)  # Kha
-	output = re.sub(u'\u106D', u'\u1039\u100C', output)  # Gha
-	output = re.sub(u'\u1070', u'\u1039\u100F', output)  # GhaGyi
-	output = re.sub(u'([\u1071-\u1072])', u'\u1039\u1010', output)  # SaLone
-	output = re.sub(u'([\u1073-\u1074])', u'\u1039\u1011', output)  # ZaGwe
-	output = re.sub(u'\u1076', u'\u1039\u1013', output)  # Ka
-	output = re.sub(u'\u1077', u'\u1039\u1014', output)  # Kha
-	output = re.sub(u'\u1078', u'\u1039\u1015', output)  # Gha
-	output = re.sub(u'\u1079', u'\u1039\u1016', output)  # GhaGyi
-	output = re.sub(u'\u107A', u'\u1039\u1017', output)  # Ka
-	output = re.sub(u'\u107B', u'\u1039\u1018', output)  # Kha
-	output = re.sub(u'\u107C', u'\u1039\u1019', output)  # Gha
-	output = re.sub(u'\u1085', u'\u1039\u101C', output)  # GhaGyi
-	output = re.sub(u'\u1093', u'\u1039\u1018', output)  #
-	output = re.sub(u'\u1096', u'\u1039\u1010\u103D', output)  #
+	output = re.sub(u'\u1060', u'\u1039\u1000', output) # Ka
+	output = re.sub(u'\u1061', u'\u1039\u1001', output) # Kha
+	output = re.sub(u'\u1062', u'\u1039\u1002', output) # Gha
+	output = re.sub(u'\u1063', u'\u1039\u1003', output) # GhaGyi
+	output = re.sub(u'\u1065', u'\u1039\u1005', output) # SaLone
+	output = re.sub(u'([\u1066-\u1067])', u'\u1039\u1006', output) # SaLai
+	output = re.sub(u'\u1068', u'\u1039\u1007', output) # ZaGwe
+	output = re.sub(u'\u1069', u'\u1039\u1008', output)  # ZaMyinZwe
+	output = re.sub(u'\u106C', u'\u1039\u100B', output)  # TaTaLinJate
+	output = re.sub(u'\u106D', u'\u1039\u100C', output)  # HtaWanBae
+	output = re.sub(u'\u1070', u'\u1039\u100F', output)  # NaGyi
+	output = re.sub(u'([\u1071-\u1072])', u'\u1039\u1010', output)  # TaWanPu
+	output = re.sub(u'([\u1073-\u1074])', u'\u1039\u1011', output)  # HtaSinHtoo
+	output = re.sub(u'\u1075', u'\u1039\u1012', output)  # DaDwae
+        output = re.sub(u'\u1076', u'\u1039\u1013', output)  # DaOut
+	output = re.sub(u'\u1077', u'\u1039\u1014', output)  # Na
+	output = re.sub(u'\u1078', u'\u1039\u1015', output)  # Pa
+	output = re.sub(u'\u1079', u'\u1039\u1016', output)  # Pha
+	output = re.sub(u'\u107A', u'\u1039\u1017', output)  # BaHtaChite
+	output = re.sub(u'\u107B', u'\u1039\u1018', output)  # BaGone
+	output = re.sub(u'\u107C', u'\u1039\u1019', output)  # Ma
+	output = re.sub(u'\u1085', u'\u1039\u101C', output)  # La
+	output = re.sub(u'\u1093', u'\u1039\u1018', output)  # Ba
+	output = re.sub(u'\u1096', u'\u1039\u1010\u103D', output)  # Twa
 	output = re.sub(u'\u106E', u'\u1039\u100B', output)  # ဋ.....
 	output = re.sub(u'\u106F', u'\u1039\u100D', output)  # ဍ....
 
