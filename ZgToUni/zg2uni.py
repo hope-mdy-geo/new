@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import re
 
-
 def convert(input):
 
 	output = input
@@ -70,4 +69,5 @@ def convert(input):
 	output = re.sub(u'\u1091', u'\u100f\u1039\u100d', output) # ng&dyg
 	output = re.sub(u'\u1092', u'\u100a\u1039\u100b', output) # ddlg&twb
 	output = re.sub(u'\u1097', u'\u100b\u1039\u100b', output) # 2ddlg
-    return output
+
+	return output
