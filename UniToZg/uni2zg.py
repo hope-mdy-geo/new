@@ -215,10 +215,11 @@ def shape(input):
 
 
 def convert(input):
-
     output = input
+
     output = decompose(output)
     output = replace(output)
     output = logical2visual(output)
     output = shape(output)
+
     return output
