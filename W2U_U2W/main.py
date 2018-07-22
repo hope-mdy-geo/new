@@ -14,7 +14,7 @@ input_file = codecs.open(input_file_name,encoding='utf-8')
 output_file = codecs.open(output_file_name,encoding='utf-8', mode='w')
 
 for input_line in input_file:
-  input_line = win2uni.convert(input_line)
+  #input_line = win2uni.convert(input_line)
   input_line = uni2win.convert(input_line)
   output_file.write(input_line)
   output_file.flush()
