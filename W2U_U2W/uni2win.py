@@ -104,8 +104,8 @@ def replace(input):
     #output = re.sub(u'\u0046\u0048', u'\u00F8', output) # NgaThet.+.ThayTin...
     #--------------------------------------- Nga Thet --------------------------------------------------
 
-    output = re.sub(u'\u0065((?:\u0044)?)((?:\u0064)?)\u004B', u'\u0045\u006B', output) # NaPyat.TCN
-    output = re.sub(u'\u0065((?:\u0044)?)((?:\u0064)?)\u004C', u'\u0045\u006C', output) # NaPyat.NaCN
+    output = re.sub(u'\u0065((?:\u0044)?)((?:\u0064)?)\u004B', u'\u0045\u006B', output) # NaPyat.TCN...
+    output = re.sub(u'\u0065((?:\u0044)?)((?:\u0064)?)\u004C', u'\u0045\u006C', output) # NaPyat.NaCN...
     return output
 
 def decompose(input):

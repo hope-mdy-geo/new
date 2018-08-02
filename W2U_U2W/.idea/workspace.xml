@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2d13609-5e18-46a1-b226-dba64db10e7f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/FontConvertion/UniToZg/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontConvertion/UniToZg/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontConvertion/UniToZg/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontConvertion/UniToZg/u.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontConvertion/UniToZg/uni2zg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontConvertion/W2U_U2W/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontConvertion/W2U_U2W/uni2win.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontConvertion/W2U_U2W/win2uni.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniToZg/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/UniToZg/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniToZg/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UniToZg/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniToZg/uni2zg.py" beforeDir="false" afterPath="$PROJECT_DIR$/UniToZg/uni2zg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/in1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/runwin.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/runwin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/z.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/z.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uni2win.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uni2zg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/win2uni.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zg2uni.py" beforeDir="false" afterPath="$PROJECT_DIR$/zg2uni.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/W2U_U2W/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uni2win.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/W2U_U2W/uni2win.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zg2uni.py" />
+        <option value="$PROJECT_DIR$/resources/in" />
+        <option value="$PROJECT_DIR$/UniToZg.py" />
+        <option value="$PROJECT_DIR$/uni2zg.py" />
+        <option value="$PROJECT_DIR$/UniToZg/test.py" />
+        <option value="$PROJECT_DIR$/UniToZg/main.py" />
+        <option value="$PROJECT_DIR$/ZgToUni/test.py" />
+        <option value="$PROJECT_DIR$/ZgToUni/zg2uni.py" />
+        <option value="$PROJECT_DIR$/UniToZg/uni2zg.py" />
+        <option value="$PROJECT_DIR$/resources/runwin.py" />
+        <option value="$PROJECT_DIR$/win2uni.py" />
+        <option value="$PROJECT_DIR$/uni2win.py" />
+        <option value="$PROJECT_DIR$/FontConvertion/UniToZg/main.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/FontConvertion/W2U_U2W/win2uni.py" />
+        <option value="$PROJECT_DIR$/FontConvertion/W2U_U2W/main.py" />
+        <option value="$PROJECT_DIR$/FontConvertion/W2U_U2W/uni2win.py" />
+        <option value="$PROJECT_DIR$/W2U_U2W/main.py" />
+        <option value="$PROJECT_DIR$/W2U_U2W/uni2win.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="472" />
+    <option name="width" value="897" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ufc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ufc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ufc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ufc" type="462c0819:PsiDirectoryNode" />
+              <item name="UniToZg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ufc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ufc" type="462c0819:PsiDirectoryNode" />
+              <item name="W2U_U2W" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2d13609-5e18-46a1-b226-dba64db10e7f" name="Default" comment="" />
+      <created>1531419251396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531419251396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3288889" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/win2uni.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/uni2zg.py" />
+    <entry file="file://$PROJECT_DIR$/uni2win.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/uni2zg.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/main.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/output.txt" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/test.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/u.txt" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/uni2zg.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/main.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/output.txt" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/test.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/u.txt" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/uni2zg.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/in.txt" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni2zg.py" />
+    <entry file="file://$PROJECT_DIR$/zg2uni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/in" />
+    <entry file="file://$PROJECT_DIR$/resources/in.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/in1" />
+    <entry file="file://$PROJECT_DIR$/UniToZg.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UniToZg/u.txt" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/test.py" />
+    <entry file="file://$PROJECT_DIR$/UniToZg/output.txt" />
+    <entry file="file://$PROJECT_DIR$/ZgToUni/test.py" />
+    <entry file="file://$PROJECT_DIR$/ZgToUni/main.py" />
+    <entry file="file://$PROJECT_DIR$/ufc/win2uni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/runwin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ufc/runwin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZgToUni/zg2uni.py" />
+    <entry file="file://$PROJECT_DIR$/win2uni.py" />
+    <entry file="file://$PROJECT_DIR$/uni2zg.py" />
+    <entry file="file://$PROJECT_DIR$/uni2win.py" />
+    <entry file="file://$PROJECT_DIR$/Uni_2_Zg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1566" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FontConvertion/UniToZg/main.py" />
+    <entry file="file://$PROJECT_DIR$/FontConvertion/W2U_U2W/in.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FontConvertion/W2U_U2W/out.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FontConvertion/W2U_U2W/win2uni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FontConvertion/W2U_U2W/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#122#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FontConvertion/W2U_U2W/uni2win.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UniToZg/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#122#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2U_U2W/win2uni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zg2uni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UniToZg/uni2zg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2U_U2W/uni2win.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2U_U2W/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

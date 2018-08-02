@@ -5,7 +5,7 @@
 
 import codecs
 import uni2win
-import win2uni
+#import win2uni
 import sys
 
 input_file_name = sys.argv[1]
