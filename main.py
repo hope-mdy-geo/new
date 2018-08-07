@@ -4,8 +4,8 @@
 # Example: main.py zawgyi.txt unicode.txt
 
 import codecs
-# import zg2uni
-# import Uni_2_Zg
+import zg2uni
+import Uni_2_Zg
 import win_2_uni
 import uni2win
 import sys
@@ -18,7 +18,7 @@ output_file = codecs.open(output_file_name,encoding='utf-8', mode='w')
 for input_line in input_file:
   # input_line = zg2uni.convert(input_line)
   # input_line = Uni_2_Zg.convert(input_line)
-  #input_line = win_2_uni.convert(input_line)
+  # input_line = win_2_uni.convert(input_line)
   input_line = uni2win.convert(input_line)
   output_file.write(input_line)
   output_file.flush()
