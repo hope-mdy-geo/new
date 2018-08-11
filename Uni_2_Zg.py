@@ -144,4 +144,4 @@ def convert(input):
     output = logical2visual(output)
     output = shape(output)
 
-return output
+    return output
