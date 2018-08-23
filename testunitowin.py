@@ -70,5 +70,147 @@ class TestZG2UNI(unittest.TestCase):
         result = uni2win.convert(unicode)
         self.assertEqual(win, result, "Failed converting Test Article Eight")
 
+    def test_article_nine(self):
+        win = u'''rnfolrQ Oya't& r[kwfaom zrf;qD;jcif;udk jzpfap? csKyfaESmifjcif;udk jzpfap? jynfESifjcif;udkjzpfap rcHap&/'''
+        unicode = u'''မည်သူမျှ ဥပဒေအရ မဟုတ်သော ဖမ်းဆီးခြင်းကို ဖြစ်စေ၊ ချုပ်နှောင်ခြင်းကို ဖြစ်စေ၊ ပြည်နှင်ခြင်းကိုဖြစ်စေ မခံစေရ။'''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Nine")
+
+    def test_article_ten(self):
+        win = u'''tcGihfta&;rsm;ESihf wm0ef 0wÅ&m;rsm;udk tqkH;tjzwfcH&mwGif vnf;aumif;? jypfrIaMumihf w&m;pGJqdk pD&if qkH;jzwfcH&mwGif vnf;aumif;? 
+        vlwdkif;onf vGwfvyfí bufrvdkufaom w&m;½kH;awmf\ vltrsm; a½SUarSmufwGif rQwpGm Mum;emppfaq;jcif;udk wlnDpGm cHpm; ydkifcGihf½Sdonf/'''
+        unicode = u'''အခွင့်အရေးများနှင့် တာဝန် ဝတ္တရားများကို အဆုံးအဖြတ်ခံရာတွင် လည်းကောင်း၊ ပြစ်မှုကြောင့် တရားစွဲဆို စီရင် ဆုံးဖြတ်ခံရာတွင် လည်းကောင်း၊ 
+        လူတိုင်းသည် လွတ်လပ်၍ ဘက်မလိုက်သော တရားရုံးတော်၏ လူအများ ရှေ့မှောက်တွင် မျှတစွာ ကြားနာစစ်ဆေးခြင်းကို တူညီစွာ ခံစား ပိုင်ခွင့်ရှိသည်။'''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article ten")
+
+    def test_article_eleven(self):
+        win = u'''vltrsm; a½SUarSmufü Oya'twdkif; ppfaq;í jypfrIusL;vGefonf[k xif½Sm; pD&ifjcif;cH&onhf tcsdeftxd jypfrIESihf w&m;pGJqdkjcif; cH&olwdkif;onf tjypfrJhol[lí ,lq jcif;cHxdkufonhf tcGihfta&;½Sdonf/ 
+        xdktrIudk Mum;emppfaq;&m0,f pGyfpGJcH&onhf jypfrItwGuf ckcHacsyEdkif&ef vdktyfaom tcGihfta&;rsm;udk xdkoltm; ay;NyD; jzpfap&rnf/
+        vlwpfOD;wpfa,muftm; EdkifiHOya't&jzpfap? tjynfjynfqdkif&m Oya't& jzpfap? jypfrIrajrmufaom vkyf&yf odkYr[kwf ysufuGufrIt& qGJqdkjypfay;jcif; rûy&/ 
+        xdkYtjyif jypfrIusL;vGefpÚftcgu xdkufoihfapEdkifaom tjypf'PfxufydkrdkBuD;av;aom tjypf'Pfudk xdkufoihfjcif;r½Sdap&/'''
+        unicode = u'''လူအများ ရှေ့မှောက်၌ ဥပဒေအတိုင်း စစ်ဆေး၍ ပြစ်မှုကျူးလွန်သည်ဟု ထင်ရှား စီရင်ခြင်းခံရသည့် အချိန်အထိ ပြစ်မှုနှင့် တရားစွဲဆိုခြင်း ခံရသူတိုင်းသည် အပြစ်မဲ့သူဟူ၍ ယူဆ ခြင်းခံထိုက်သည့် အခွင့်အရေးရှိသည်။ 
+        ထိုအမှုကို ကြားနာစစ်ဆေးရာဝယ် စွပ်စွဲခံရသည့် ပြစ်မှုအတွက် ခုခံချေပနိုင်ရန် လိုအပ်သော အခွင့်အရေးများကို ထိုသူအား ပေးပြီး ဖြစ်စေရမည်။
+        လူတစ်ဦးတစ်ယောက်အား နိုင်ငံဥပဒေအရဖြစ်စေ၊ အပြည်ပြည်ဆိုင်ရာ ဥပဒေအရ ဖြစ်စေ၊ ပြစ်မှုမမြောက်သော လုပ်ရပ် သို့မဟုတ် ပျက်ကွက်မှုအရ ဆွဲဆိုပြစ်ပေးခြင်း မပြုရ။ 
+        ထို့အပြင် ပြစ်မှုကျူးလွန်စဉ်အခါက ထိုက်သင့်စေနိုင်သော အပြစ်ဒဏ်ထက်ပိုမိုကြီးလေးသော အပြစ်ဒဏ်ကို ထိုက်သင့်ခြင်းမရှိစေရ။'''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article eleven")
+
+    # def test_article_twelve(self):
+    #     win = u'''rnfolrQ rdrdoabmtwdkif; at;csrf;vGwfvyfpGm aexdkifjcif;udk aomfvnf;aumif;? rdrd\ rdom;pkudk aomfvnf;aumif;? rdrd\ aetdrf todkuft0ef;udk aomfvnf;aumif;? pmay;pm,ludk aomfvnf;aumif;? Oya't& r[kwfaom 0ifa&muf pGufzufjcif; rcHap&/
+    #     xdkYjyif rdrd\*kPfodu©m udkvnf; txufyg twdkif; ykwfcwfjcif; rcHap&/ vlwdkif;wGif xdkodkY 0ifa&mufpGufzufjcif;rS aomfvnf;aumif; ykwfcwfjcif;rS aomfvnf;aumif; Oya't& umuG,f ydkifcGihf½Sdonf/'''
+    #     unicode = u'''မည်သူမျှ မိမိသဘောအတိုင်း အေးချမ်းလွတ်လပ်စွာ နေထိုင်ခြင်းကို သော်လည်းကောင်း၊ မိမိ၏ မိသားစုကို သော်လည်းကောင်း၊ မိမိ၏ နေအိမ် အသိုက်အဝန်းကို သော်လည်းကောင်း၊ စာပေးစာယူကို သော်လည်းကောင်း၊ ဥပဒေအရ မဟုတ်သော ဝင်ရောက် စွက်ဖက်ခြင်း မခံစေရ။
+    #     ထို့ပြင် မိမိ၏ဂုဏ်သိက္ခာ ကိုလည်း အထက်ပါ အတိုင်း ပုတ်ခတ်ခြင်း မခံစေရ။ လူတိုင်းတွင် ထိုသို့ ဝင်ရောက်စွက်ဖက်ခြင်းမှ သော်လည်းကောင်း ပုတ်ခတ်ခြင်းမှ သော်လည်းကောင်း ဥပဒေအရ ကာကွယ် ပိုင်ခွင့်ရှိသည်။'''
+    #     result = uni2win.convert(unicode)
+    #     self.assertEqual(win, result, "Failed converting Test Article Twelve")
+
+    def test_article_thirteen(self):
+        win = u'''vlwdkif;wGif rdrd\EdkifiH e,fedrdwf twGif;ü vGwfvyfpGm oGm;vm a½TUajymif; EdkifcGihf? aexdkifcGihf½Sdonf/'''
+        unicode = u'''လူတိုင်းတွင် မိမိ၏နိုင်ငံ နယ်နိမိတ် အတွင်း၌ လွတ်လပ်စွာ သွားလာ ရွှေ့ပြောင်း နိုင်ခွင့်၊ နေထိုင်ခွင့်ရှိသည်။'''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Thirteen")
+
+    def test_article_fourteen(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Fourteen")
+
+    def test_article_fifteen(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Fifteen")
+
+    def test_article_sixteen(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Sixteen")
+
+    def test_article_seventeen(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Seventeen")
+
+    def test_article_eighteen(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Eighteen")
+
+    def test_article_nineteen(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Nineteen")
+
+    def test_article_twenty(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Twenty")
+
+    def test_article_twentyOne(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentyOne")
+
+    def test_article_twentyTwo(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentyTwo")
+
+    def test_article_twentyThree(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentyThree")
+
+    def test_article_twentyFour(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentyFour")
+
+    def test_article_twentyFive(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentyFive")
+
+    def test_article_twentySix(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentySix")
+
+    def test_article_twentySeven(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentySeven")
+
+    def test_article_twentyEight(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentyEight")
+
+    def test_article_twentyNine(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article TwentyNine")
+
+    def test_article_thirty(self):
+        win = u''''''
+        unicode = u''''''
+        result = uni2win.convert(unicode)
+        self.assertEqual(win, result, "Failed converting Test Article Thirty")
+
 if __name__ == "__main__":
     unittest.main()
