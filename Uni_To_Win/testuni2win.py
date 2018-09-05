@@ -110,29 +110,29 @@ class TestZG2UNI(unittest.TestCase):
         result = Uni_To_Win.convert(unicode)
         self.assertEqual(win, result, "Failed converting Test Article Thirteen")
 
-    def test_article_fourteen(self):
-        win = u''''''
-        unicode = u''''''
-        result = Uni_To_Win.convert(unicode)
-        self.assertEqual(win, result, "Failed converting Test Article Fourteen")
 
-    def test_article_fifteen(self):
-        win = u''''''
-        unicode = u''''''
-        result = Uni_To_Win.convert(unicode)
-        self.assertEqual(win, result, "Failed converting Test Article Fifteen")
 
-    def test_article_sixteen(self):
-        win = u''''''
-        unicode = u''''''
-        result = Uni_To_Win.convert(unicode)
-        self.assertEqual(win, result, "Failed converting Test Article Sixteen")
 
-    def test_article_seventeen(self):
-        win = u''''''
-        unicode = u''''''
-        result = Uni_To_Win.convert(unicode)
-        self.assertEqual(win, result, "Failed converting Test Article Seventeen")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     def test_article_eighteen(self):
         win = u''''''
