@@ -2,12 +2,12 @@
 #### Director - U Ravi Chhabra (CEO of GMIT)
 #### Supervisor - Dr.Thandar Htwe (Faculty of Computer Science), University of Computer Studies (Mandalay)
 Member List : 
-Ma Ei Ei Phyu 
-Mg Aung Kyaw Khaing  	
-Ma Nandar Lin  
-Ma Thinzar Oo 
-Ma Ei Ei Kyaw 
-Ma Thein Mwe Phoo  
+Ma Ei Ei Phyu <br />
+Mg Aung Kyaw Khaing   <br />	
+Ma Nandar Lin   <br />
+Ma Thinzar Oo  <br />
+Ma Ei Ei Kyaw  <br />
+Ma Thein Mwe Phoo  <br /> 
 
 ## ABSTRACT
 	
