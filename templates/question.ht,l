@@ -1,0 +1,158 @@
+
+<html>
+    <head>
+		  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		  <link type="text/css" rel="stylesheet" href="{{url_for('static',filename='css/materialize.css')}}"  media="screen,projection"/>
+		  <link rel="stylesheet" href="{{url_for('static',filename='css/material.min.css')}}">
+		  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		  <script type="text/javascript" src="{{url_for('static',filename='JQuery/jquery.js')}}"></script>
+		 <link rel="stylesheet" href='https://mmwebfonts.comquas.com/fonts/?font=zawgyi' />
+			<link rel="stylesheet" href='https://mmwebfonts.comquas.com/fonts/?font=myanmar3' />
+      <style>
+          .page-footer
+           {
+             background-color: #a7ffeb;
+            }
+            .container
+           {
+              background-color: #004d40;
+           }
+           .card{
+             background-color: #E3F2FD;
+           }
+		   p
+		   {
+		   font-size:18px;
+		   }
+		.mdl-layout__header-row .mdl-navigation__link
+	  {
+	  display:block;color:black;
+	  line-height:64px;
+	  padding:0 8px;
+	  }
+
+         body
+           {
+              display: flex;
+              min-height: 100vh;
+              flex-direction: column;
+
+				}
+			main
+				{
+					flex: 1 0 auto;
+				}
+				.mdl-layout__title,.mdl-layout-title
+
+				{
+					display:block;
+					position:relative;
+					font-family:"Roboto","Helvetica","Arial",sans-serif;
+					font-size:30px;line-height:1;letter-spacing:.02em;
+					font-weight:500;
+					box-sizing:border-box;
+					color:white;
+					margin:0;
+					padding: 0 0 0 0;
+
+				}
+			.mdl-navigation__link
+				{
+				  display: block;
+				  color:black;
+				  line-height: 64px;
+				  padding: 0 0px;
+				  font-size:18px;
+				}
+				.container
+{
+background-color:#2196f3;
+}
+.mdl-mega-footer
+{
+background-color:#2196f3;
+}
+
+</style>
+
+   </head>
+        <div class="demo-layout-transparent mdl-layout mdl-js-layout"></div>
+			<main class="mdl-layout__content">
+
+              <span class="mdl-layout-title">
+
+		  <div class="mdl-layout--large-screen-only mdl-layout__header-row mdl-color--blue" id="hello">
+
+			<a class="mdl-navigation__link" href="{{url_for('unitozawgyi')}}">Back</a>
+
+		</div>
+	</span>
+	<div class="page-content">
+	<div style="margin-top:5px" class="row">
+    <div class="col s12 m12">
+      <div class="card blue">
+        <div class="card-content black-text">
+		<p class="center" style="font-size:25px;">Questions & Answers</P>
+		</div>
+		</div>
+		</div>
+    <div class="row">
+    <div class="col s12 m12">
+      <div class="card">
+        <div class="card-content black-text">
+          <p>
+          Q: How do we convert one language to another app?</p>
+		  <br>
+		 <p>A: Select the words and then click the selection .The results appears in the research pane under ocnvertion.
+        </div>
+      </div>
+    </div>
+  </div>
+   <div class="row">
+    <div class="col s12 m12">
+      <div class="card">
+        <div class="card-content black-text">
+          <p>
+          Q: Does language create reality? </p>
+		  <br>
+		 <p>A: Yes,language create reality,Surprising benefits of learning a language.
+
+        </div>
+      </div>
+    </div>
+  </div>
+   <div class="row">
+    <div class="col s12 m12">
+      <div class="card">
+        <div class="card-content black-text">
+          <p>
+          Q: How do I built my own language transition app?</p>
+		  <br>
+		 <p>A: Choose a design layout ,customiza it to  fit your needs.
+		 Add your features an app that reflects the right images for your brand.
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <footer class="mdl-mega-footer">
+		 <div class="footer-copyright">
+							<div class="container">
+
+
+								@ 2018 CUMDY Interns
+
+
+								<a class="grey-text text-lighten-4 right">Goe-Hope Team</a>
+
+
+							</div>
+						</div>
+						</footer>
+	</div>
+       </main>
+ <script src="{{url_for('static',filename='js/material.min.js')}}" ></script>
+	<script type="text/javascript" src="{{url_for('static',filename='js/materialize.js')}}"></script>
+        </div>
+   </body>
+        </html>
