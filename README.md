@@ -176,11 +176,11 @@ So, our project can help for Myanmar people. This wed application can be useful 
 -By using this system, save the translation time and searching time. <br />
 
 ##  Limitations of the Project
--The system is implemented for only three Myanmar language fonts such as Zawgyi, Unicode, Wincode.
--So, this system is not available for other fonts.
--The system cannot perform the saving process but can copy the output script.
--The choosen font  in the dropbox must the same the type of user’s input.
--The system cannot display sequence orders of Myanmar language font.
+-The system is implemented for only three Myanmar language fonts such as Zawgyi, Unicode, Wincode. <br />
+-So, this system is not available for other fonts. <br />
+-The system cannot perform the saving process but can copy the output script. <br />
+-The choosen font  in the dropbox must the same the type of user’s input. <br />
+-The system cannot display sequence orders of Myanmar language font. <br />
 
 ##  Further Extensions of the Project
 -The system can implement for different Myanmar language fonts in the same web site.
