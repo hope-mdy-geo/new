@@ -80,6 +80,7 @@ Materialize css is a complete package for small projects as well as for building
 
 
 ###	MATERIAL DESIGN LITE
+
 Material Design Lite is built to provide a lightweight and basic set of Material Design components and templates for web sites. The project does not intend to provide structures to create all possible UX needs, but to provide a low-friction Material Design implementation you can build on.
 
 
@@ -94,6 +95,11 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 ###	Objectives of the Project
 
+-	To describe a system that convert between three Myanmar language fonts with each other using python and web design development framework
+-	To transform the same script written in different Myanmar language fonts using this web application.
+-	To save in time for conversion, this “Universal Font Converter” can be used with not only computer but also mobile phone .
+-	To support the users who can write only one font in Myanmar font conversion without knowing the various fonts of sequence ordering
+-	To assist users more easily and conveniently for variety of font conversion.
  
 ## METHDOLOGY
 
