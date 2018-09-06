@@ -9,14 +9,12 @@ Member List : <br />
   Ma Ei Ei Kyaw  <br />
   Ma Thein Mwe Phoo  <br /> 
 
-## ABSTRACT
-	
+## ABSTRACT	
 There are a total hundred languages spoken by the people living in Myanmar. Among them, the top language is Myanmar (Burmese). Myanmar language is based on Mon language. There are long history of printing and publishing in Myanmar languages. Computerization also has been started long ago. It is still not sufficient enough to localize basic software into Myanmar languages and present in cyberspace.
 Many people have put effort since long time ago to develop Myanmar Character Codes and Fonts. This project mainly emphasizes on the necessary cooperation among the developers and local user.
 This project overview the diversify world of writing system and give historical overview on the evaluation of computer usage in Myanmar and Burmese language. The languages spoken by the people living in Myanmar is described. The history of type printing technology in Myanmar is mentioned. The availability of digital technology in Myanmar is mentioned. The availability of internet in Myanmar is mentioned. It also describes about the initiatives and difficulties of Natural Language Processing for Myanmar Language.
 
 ## ACKNOWLEDGEMENTS
-
 Being a final year students,we should need to write a project for preparation to get the Bachelor of Computer Science (B.C.Sc).This project is our effort to submit to our teachers of the University of Computer Studies (Mandalay).
 	First, We would like to respectfully thank and appreciate U Kyaw Zwa Soe , Rector of University of Computer Studies (Mandalay) , who gives us this opportunities to develop this project at University of Computer Studies (Mandalay).
 Secondly, We  would like to express to our Pro-Rector of University of Computer Studies (Mandalay),Dr. San San Tint.
@@ -27,7 +25,6 @@ And we are deeply thankful to our supervisor , Dr. Thandar Htwe (Faculty of Comp
 We especially thanks to our parents and  to our friends for providing encouragement and giving us a great support during internship programme.
 
 ## DECLARATION
-
 We declare that this project report or part of it was not a copy of a document done by any organization, university any other institute or a previous student project group at University of Computer Studies (Mandalay) and was not copied from the Internet or other sources.
 	
 Project Details
@@ -35,14 +32,12 @@ Project Title -	Myanmar Language Tool
 Project ID    - GMIT Company Internship
 
 ##  Introduction
-
 Myanmar is a country having a population of about 57 million people comprising of 135 ethnic groups speaking their own vernacular languages or dialects. Among those, Myanmar language being spoken by more than 30 million people as their first language is the official language used in the administrative, judicial and commercial systems throughout the nation. Myanmar language is the native language for Myanmar people and our spoken language too, but there is no standard in Myanmar about language tool. There are a lot of fonts such as Zawgyi ,Win, Uni Code, San Myanmar and so on.
 Myanmar language is also spoken by the rest minorities as their second language. Nowadays, mobile phones are very useful for everyone to communicate with each other.
 The project named “Myanmar Language Tool” is aimed to Myanmar people, writer and translator. This language can be used to computer.  So, using our Web application, “Universal Font Converter” is apparently more profitable for the Myanmar.
  	This project is implemented by Python. In Python by slowly building and establishing skills through techniques like practice and memorization.Our project is very useful for Myanmar people.
 
 ##  BACKGROUND
-
 We developed an web application named “Universal Font Converter” using web design development. 
 To develop this application, we learn and use the following languages and frameworks as basic.
 -	HTML
@@ -57,39 +52,31 @@ And we also use notepad++, vim or pycharm as text editor.
 
 
 ###  HTML (Hyper Text Makeup Language)
-
 HTML is the set of makeup symbols or codes placed in a file that is intended for display on a web page.These symbols or codes identify structural elements such as paragraphs, headings and lists.HTML can also be used to place media such as video, audio and graphics on a web page.HTML permits platform-independent display of information across a network.
 
 ###  CSS (Cascading Style Sheet)
-
 Web designers use CSS to separate the presentation style of a web page from the information on the web page.CSS is used to configure text, color and page layout.CSS is flexible, cross-platforms and standards-based language developed by W3S.
 
 ###  JQUERY
-
 JQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 	
 ###  JAVASCRIPT 
-
 JavaScript is interpreted by the client. This means that The JavaScript code, embedded in the HTML document, will be rendered by the browser. The server’s job is to provide the HTML document. The web browser’s job is to interpreted  the HTML file and display the web page accordingly. Because all processing is performed by the client, this referred to as client-side processing.
 
 
 ###  MATERIALIZE
-
 Materialize css is a complete package for small projects as well as for building large scale responsive websites and HTML5 hybrid mobile apps. It includes css for color, typography, tables, grids and also helper classes etc. to name a few.
 
 ###  MATERIAL DESIGN LITE
-
 Material Design Lite is built to provide a lightweight and basic set of Material Design components and templates for web sites. The project does not intend to provide structures to create all possible UX needs, but to provide a low-friction Material Design implementation you can build on.
 
 ###  PYTHON
-
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
 
 
 
 ###  Objectives of the Project
-
 -To describe a system that convert between three Myanmar language fonts with each other using python and web design development framework
 -To transform the same script written in different Myanmar language fonts using this web application.
 -To save in time for conversion, this “Universal Font Converter” can be used with not only computer but also mobile phone .
@@ -177,7 +164,6 @@ Kinzi						-ၤ 				F
 Other character			ာ 				m
 
 ## Conclusion
-
 Many languages have been represented in the WEB SITE, several languages does not represent till now. Myanmar language is one of those languages that have a little representation in the World Wide Web. In addition, there are no emotional reaction for Myanmar Language Web Site. But, Myanmar language tool is composed of regular components.
 Myanmar language need characters code address to complete systematic data process. Otherwise no one can solve Myanmar character sorting still now.
 Many people try to solve Myanmar characters sorting by programming. But they are not familiar with computer, email, internet. They understand that Myanmar character  include 33 consonant letters are enough for Myanmar language tool. 
@@ -185,23 +171,23 @@ So, our project can help for Myanmar people. This wed application can be useful 
 
 
 ##  Advantages of the Project
-
 -If user can only type one Myanmar font, the user will known the two other fonts.
 -The user can use easily the converting process with three fonts by using this website without changing the other website.
 -By using this system, save the translation time and searching time.
 
-##		Limitations of the Project
-	The system is implemented for only three Myanmar language fonts such as Zawgyi, Unicode, Wincode.
-	So, this system is not available for other fonts.
-	The system cannot perform the saving process but can copy the output script.
-	The choosen font  in the dropbox must the same the type of user’s input.
-	The system cannot display sequence orders of Myanmar language font.
+##  Limitations of the Project
+-The system is implemented for only three Myanmar language fonts such as Zawgyi, Unicode, Wincode.
+-So, this system is not available for other fonts.
+-The system cannot perform the saving process but can copy the output script.
+-The choosen font  in the dropbox must the same the type of user’s input.
+-The system cannot display sequence orders of Myanmar language font.
 
-##		Further Extensions of the Project
-	The system can implement for different Myanmar language fonts in the same web site.
-	The system can compute various of Myanmar language.
-	In addition, this system can be extended for saving process, searching process, and so on.
-	The system can be used on web pages as translation application in future work.
+##  Further Extensions of the Project
+-The system can implement for different Myanmar language fonts in the same web site.
+-The system can compute various of Myanmar language.
+-In addition, this system can be extended for saving process, searching process, and so on.
+-The system can be used on web pages as translation application in future work.
+
 
 
 
