@@ -77,11 +77,11 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 
 ###  Objectives of the Project
--To describe a system that convert between three Myanmar language fonts with each other using python and web design development framework
--To transform the same script written in different Myanmar language fonts using this web application.
--To save in time for conversion, this “Universal Font Converter” can be used with not only computer but also mobile phone .
--To support the users who can write only one font in Myanmar font conversion without knowing the various fonts of sequence ordering
--To assist users more easily and conveniently for variety of font conversion.
+-To describe a system that convert between three Myanmar language fonts with each other using python and web design development framework <br />
+-To transform the same script written in different Myanmar language fonts using this web application. <br />
+-To save in time for conversion, this “Universal Font Converter” can be used with not only computer but also mobile phone . <br />
+-To support the users who can write only one font in Myanmar font conversion without knowing the various fonts of sequence ordering <br />
+-To assist users more easily and conveniently for variety of font conversion. <br />
  
 ## METHDOLOGY
 
