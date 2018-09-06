@@ -75,7 +75,7 @@ JavaScript is interpreted by the client. This means that The JavaScript code, em
 
 
 ###	MATERIALIZE
-
+Materialize css is a complete package for small projects as well as for building large scale responsive websites and HTML5 hybrid mobile apps. It includes css for color, typography, tables, grids and also helper classes etc. to name a few.
 
 
 
