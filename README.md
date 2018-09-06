@@ -2,12 +2,12 @@
 #### Director - U Ravi Chhabra (CEO of GMIT)
 #### Supervisor - Dr.Thandar Htwe (Faculty of Computer Science), University of Computer Studies (Mandalay)
 Member List : <br />
-Ma Ei Ei Phyu <br />
-Mg Aung Kyaw Khaing   <br />	
-Ma Nandar Lin   <br />
-Ma Thinzar Oo  <br />
-Ma Ei Ei Kyaw  <br />
-Ma Thein Mwe Phoo  <br /> 
+  Ma Ei Ei Phyu <br />
+  Mg Aung Kyaw Khaing   <br />	
+  Ma Nandar Lin   <br />
+  Ma Thinzar Oo  <br />
+  Ma Ei Ei Kyaw  <br />
+  Ma Thein Mwe Phoo  <br /> 
 
 ## ABSTRACT
 	
@@ -56,7 +56,6 @@ We store the code in GITHUB to provide good  communication.
 And we also use notepad++, vim or pycharm as text editor. 
 
 
-
 ###  HTML (Hyper Text Makeup Language)
 
 HTML is the set of makeup symbols or codes placed in a file that is intended for display on a web page.These symbols or codes identify structural elements such as paragraphs, headings and lists.HTML can also be used to place media such as video, audio and graphics on a web page.HTML permits platform-independent display of information across a network.
@@ -65,12 +64,9 @@ HTML is the set of makeup symbols or codes placed in a file that is intended for
 
 Web designers use CSS to separate the presentation style of a web page from the information on the web page.CSS is used to configure text, color and page layout.CSS is flexible, cross-platforms and standards-based language developed by W3S.
 
-
-
 ###  JQUERY
 
 JQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
-
 	
 ###  JAVASCRIPT 
 
@@ -81,23 +77,18 @@ JavaScript is interpreted by the client. This means that The JavaScript code, em
 
 Materialize css is a complete package for small projects as well as for building large scale responsive websites and HTML5 hybrid mobile apps. It includes css for color, typography, tables, grids and also helper classes etc. to name a few.
 
-
-
 ###  MATERIAL DESIGN LITE
 
 Material Design Lite is built to provide a lightweight and basic set of Material Design components and templates for web sites. The project does not intend to provide structures to create all possible UX needs, but to provide a low-friction Material Design implementation you can build on.
 
-
-
-
-###	PYTHON
+###  PYTHON
 
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
 
 
 
-###	Objectives of the Project
+###  Objectives of the Project
 
 -To describe a system that convert between three Myanmar language fonts with each other using python and web design development framework
 -To transform the same script written in different Myanmar language fonts using this web application.
@@ -191,8 +182,6 @@ Many languages have been represented in the WEB SITE, several languages does not
 Myanmar language need characters code address to complete systematic data process. Otherwise no one can solve Myanmar character sorting still now.
 Many people try to solve Myanmar characters sorting by programming. But they are not familiar with computer, email, internet. They understand that Myanmar character  include 33 consonant letters are enough for Myanmar language tool. 
 So, our project can help for Myanmar people. This wed application can be useful for computers and mobile phones. 
-
-
 
 
 ##	Advantages of the Project
