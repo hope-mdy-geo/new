@@ -62,6 +62,7 @@ And we also use notepad++, vim or pycharm as text editor.
 HTML is the set of makeup symbols or codes placed in a file that is intended for display on a web page.These symbols or codes identify structural elements such as paragraphs, headings and lists.HTML can also be used to place media such as video, audio and graphics on a web page.HTML permits platform-independent display of information across a network.
 
 ###	CSS (Cascading Style Sheet)
+Web designers use CSS to separate the presentation style of a web page from the information on the web page.CSS is used to configure text, color and page layout.CSS is flexible, cross-platforms and standards-based language developed by W3S.
 
 
 
