@@ -80,6 +80,7 @@ Materialize css is a complete package for small projects as well as for building
 
 
 ###	MATERIAL DESIGN LITE
+Material Design Lite is built to provide a lightweight and basic set of Material Design components and templates for web sites. The project does not intend to provide structures to create all possible UX needs, but to provide a low-friction Material Design implementation you can build on.
 
 
 
