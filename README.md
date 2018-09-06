@@ -136,8 +136,8 @@ Other characters				 ါ  +     -္
 
 To type character in Zawgyi and Win font
 Zawgyi		Win
-Vowel					ေ 			a	
-Medial					ၾ     			M		
+Vowel					ေ 			 a	
+Medial					ၾ     			  M		
 Consonant 				က			u
 
 To type character in Unicode font
@@ -184,10 +184,11 @@ Many people try to solve Myanmar characters sorting by programming. But they are
 So, our project can help for Myanmar people. This wed application can be useful for computers and mobile phones. 
 
 
-##	Advantages of the Project
-	If user can only type one Myanmar font, the user will known the two other fonts.
-	The user can use easily the converting process with three fonts by using this website without changing the other website.
-	By using this system, save the translation time and searching time.
+##  Advantages of the Project
+
+-If user can only type one Myanmar font, the user will known the two other fonts.
+-The user can use easily the converting process with three fonts by using this website without changing the other website.
+-By using this system, save the translation time and searching time.
 
 ##		Limitations of the Project
 	The system is implemented for only three Myanmar language fonts such as Zawgyi, Unicode, Wincode.
