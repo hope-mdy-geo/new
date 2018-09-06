@@ -183,10 +183,10 @@ So, our project can help for Myanmar people. This wed application can be useful 
 -The system cannot display sequence orders of Myanmar language font. <br />
 
 ##  Further Extensions of the Project
--The system can implement for different Myanmar language fonts in the same web site.
--The system can compute various of Myanmar language.
--In addition, this system can be extended for saving process, searching process, and so on.
--The system can be used on web pages as translation application in future work.
+-The system can implement for different Myanmar language fonts in the same web site. <br /> 
+-The system can compute various of Myanmar language. <br />
+-In addition, this system can be extended for saving process, searching process, and so on. <br />
+-The system can be used on web pages as translation application in future work. <br />
 
 
 
