@@ -171,9 +171,9 @@ So, our project can help for Myanmar people. This wed application can be useful 
 
 
 ##  Advantages of the Project
--If user can only type one Myanmar font, the user will known the two other fonts.
--The user can use easily the converting process with three fonts by using this website without changing the other website.
--By using this system, save the translation time and searching time.
+-If user can only type one Myanmar font, the user will known the two other fonts. <br />
+-The user can use easily the converting process with three fonts by using this website without changing the other website. <br />
+-By using this system, save the translation time and searching time. <br />
 
 ##  Limitations of the Project
 -The system is implemented for only three Myanmar language fonts such as Zawgyi, Unicode, Wincode.
