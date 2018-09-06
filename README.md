@@ -1,7 +1,7 @@
 # # # MYANMAR LANGUAGE TOOL
 #### Director - U Ravi Chhabra (CEO of GMIT)
 #### Supervisor - Dr.Thandar Htwe (Faculty of Computer Science), University of Computer Studies (Mandalay)
-Member List : 
+Member List : <br />
 Ma Ei Ei Phyu <br />
 Mg Aung Kyaw Khaing   <br />	
 Ma Nandar Lin   <br />
@@ -34,14 +34,14 @@ Project Details
 Project Title -	Myanmar Language Tool
 Project ID    - GMIT Company Internship
 
-## Introduction
+##  Introduction
 
 Myanmar is a country having a population of about 57 million people comprising of 135 ethnic groups speaking their own vernacular languages or dialects. Among those, Myanmar language being spoken by more than 30 million people as their first language is the official language used in the administrative, judicial and commercial systems throughout the nation. Myanmar language is the native language for Myanmar people and our spoken language too, but there is no standard in Myanmar about language tool. There are a lot of fonts such as Zawgyi ,Win, Uni Code, San Myanmar and so on.
 Myanmar language is also spoken by the rest minorities as their second language. Nowadays, mobile phones are very useful for everyone to communicate with each other.
 The project named “Myanmar Language Tool” is aimed to Myanmar people, writer and translator. This language can be used to computer.  So, using our Web application, “Universal Font Converter” is apparently more profitable for the Myanmar.
  	This project is implemented by Python. In Python by slowly building and establishing skills through techniques like practice and memorization.Our project is very useful for Myanmar people.
 
-##	BACKGROUND
+##  BACKGROUND
 
 We developed an web application named “Universal Font Converter” using web design development. 
 To develop this application, we learn and use the following languages and frameworks as basic.
@@ -57,29 +57,33 @@ And we also use notepad++, vim or pycharm as text editor.
 
 
 
-###	HTML (Hyper Text Makeup Language)
+###  HTML (Hyper Text Makeup Language)
 
 HTML is the set of makeup symbols or codes placed in a file that is intended for display on a web page.These symbols or codes identify structural elements such as paragraphs, headings and lists.HTML can also be used to place media such as video, audio and graphics on a web page.HTML permits platform-independent display of information across a network.
 
-###	CSS (Cascading Style Sheet)
+###  CSS (Cascading Style Sheet)
+
 Web designers use CSS to separate the presentation style of a web page from the information on the web page.CSS is used to configure text, color and page layout.CSS is flexible, cross-platforms and standards-based language developed by W3S.
 
 
 
-###	JQUERY
+###  JQUERY
+
 JQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 
 	
-###    JAVASCRIPT 
+###  JAVASCRIPT 
+
 JavaScript is interpreted by the client. This means that The JavaScript code, embedded in the HTML document, will be rendered by the browser. The server’s job is to provide the HTML document. The web browser’s job is to interpreted  the HTML file and display the web page accordingly. Because all processing is performed by the client, this referred to as client-side processing.
 
 
-###	MATERIALIZE
+###  MATERIALIZE
+
 Materialize css is a complete package for small projects as well as for building large scale responsive websites and HTML5 hybrid mobile apps. It includes css for color, typography, tables, grids and also helper classes etc. to name a few.
 
 
 
-###	MATERIAL DESIGN LITE
+###  MATERIAL DESIGN LITE
 
 Material Design Lite is built to provide a lightweight and basic set of Material Design components and templates for web sites. The project does not intend to provide structures to create all possible UX needs, but to provide a low-friction Material Design implementation you can build on.
 
@@ -95,11 +99,11 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 ###	Objectives of the Project
 
--	To describe a system that convert between three Myanmar language fonts with each other using python and web design development framework
--	To transform the same script written in different Myanmar language fonts using this web application.
--	To save in time for conversion, this “Universal Font Converter” can be used with not only computer but also mobile phone .
--	To support the users who can write only one font in Myanmar font conversion without knowing the various fonts of sequence ordering
--	To assist users more easily and conveniently for variety of font conversion.
+-To describe a system that convert between three Myanmar language fonts with each other using python and web design development framework
+-To transform the same script written in different Myanmar language fonts using this web application.
+-To save in time for conversion, this “Universal Font Converter” can be used with not only computer but also mobile phone .
+-To support the users who can write only one font in Myanmar font conversion without knowing the various fonts of sequence ordering
+-To assist users more easily and conveniently for variety of font conversion.
  
 ## METHDOLOGY
 
@@ -112,13 +116,12 @@ In this chapter, the basic concepts of typing character for each Myanmar languag
 Zawgyi font is the most popular font and the predominant typeface used for Burmese language text on websites. It is a font with  only Burmese characters. It is also known as Zawgyi-one or Zawgyi1 font although updated versions of this font were not named Zawgyi-two. Although some of the code points are similar to the Myanmar script as encoded in Unicode, the font does not correspond to the correct Unicode encoding.
 	Win font is typing such as Zawgyi font. It is stored in English letters, called “ASCII FONT”. We will see as English letters without Win font software.
 
-
-	To convert the same script written in different Myanmar language font using this application.
-	To assist users more easily and conveniently in translation.
-	To provide the basic grammar rules or sequence ordering of the Zawgyi, Unicode, and Wincode.
-	To describe a system that translates between three Myanmar language font with each other.
-	To understand concept and technology associated web design, python, and web pages (e.g_Heroku, Github, etc.)
-	To convert from one Myanmar language font to another font with “Universal Font Converter” computerized system in a short time. 
+-To convert the same script written in different Myanmar language font using this application.
+-To assist users more easily and conveniently in translation.
+-To provide the basic grammar rules or sequence ordering of the Zawgyi, Unicode, and Wincode.
+-To describe a system that translates between three Myanmar language font with each other.
+-To understand concept and technology associated web design, python, and web pages (e.g_Heroku, Github, etc.)
+-To convert from one Myanmar language font to another font with “Universal Font Converter” computerized system in a short time.
 
 ###	Structure of Myanmar Language
 
@@ -212,16 +215,5 @@ So, our project can help for Myanmar people. This wed application can be useful 
 
 
 
-# Conversion Step 1
-First convert all Zawgi code points to Unicode code points
-# Conversion Step 2
-Secont convert all Unicode code points to Zawgyi code points
-# Conversion Step 3
-Three convert all Win-Innwa code points to Unicode code points
-# Conversion Step 4
-Four step convert all Unicode code points to Win code points
-# Conversion Step 5
-Five convert all Zawgyi code points to Win-Innwa code points
-# Conversion Step 6
-Six convert all Win-Innwa code points to Zawgyi code points
+
 
